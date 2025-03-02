@@ -20,7 +20,7 @@ Here are some images related to the Cooking Royalty Website Project:
   <img src="/logo/ss/home.JPG" alt="Home" style="width: 80%; border: 2px solid white;"/>
   <img src="/logo/ss/trending-recipes.JPG" alt="TR" style="width: 80%; border: 2px solid white;"/>
   <img src="/logo/ss/trending-recipes-1.jpg" alt="TR1" style="width: 45%; border: 2px solid white;"/>
-  <img src="/logo/ss/dessert.JPG" alt="dessert" style="width: 65%; border: 2px solid white;"/>
+  <img src="/logo/ss/dessert.JPG" alt="dessert" style="width: 45%; border: 2px solid white;"/>
   <img src="/logo/ss/about-us.JPG" alt="About Us" style="width: 80%; border: 2px solid white;"/>
   <img src="/logo/ss/contact-us.JPG" alt="Contact Us" style="width: 80%; border: 2px solid white;"/>
 </div>
